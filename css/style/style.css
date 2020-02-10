@@ -1,9 +1,14 @@
-html:{
-    background-color: darkgreen;
 
-}
 body{
-    background-color: "#090";
+    /* background-color: #E5E6F0;
+    background-image: url(../image/índice.jpg), url(../image/cat-command-linux.jpeg);
+    background-size: 800px, 30px;
+    background-repeat: no-repeat;
+    background-position: 50px 210px ;
+    background-clip:  border-box;
+    background-attachment: fixed, fixed; */
+    background: #AAA url(../image/índice.jpg) no-repeat center /100px;
+    border-radius: 35px;    
 }
 
 .style{
@@ -11,5 +16,9 @@ body{
 }
 
 span{
-    background-color: burlywood;
+    background-color: #E5E6F0;
+    color:rebeccapurple;
+    border-radius: 35px;
+    
 }
+
