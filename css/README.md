@@ -7,10 +7,11 @@
 
 ## Seletores
 
-#### seletor do elemento{
-###    Propriedade:Valor da propriedade
-### }
-
+...
+seletor do elemento{
+    Propriedade:Valor da propriedade
+ }
+...
 ## Seletores 
 
 ### Básico tag, class e id
