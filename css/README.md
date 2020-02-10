@@ -72,4 +72,4 @@
 |-----|------|
 |teste|teste2|
 
-[ ] teste
+[X] teste
